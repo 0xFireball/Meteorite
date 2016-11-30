@@ -4,3 +4,6 @@
 [submodule "Meteorite.JSEngine"]
 	path = Meteorite.JSEngine
 	url = https://github.com/0xFireball/IridiumJS
+[submodule "Meteorite.IoC"]
+	path = Meteorite.IoC
+	url = https://github.com/0xFireball/CookieIoC.git
