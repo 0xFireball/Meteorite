@@ -1,0 +1,6 @@
+[submodule "Meteorite.PluginCore"]
+	path = Meteorite.PluginCore
+	url = https://github.com/0xFireball/Platinum.PluginCore3
+[submodule "Meteorite.JSEngine"]
+	path = Meteorite.JSEngine
+	url = https://github.com/0xFireball/IridiumJS
